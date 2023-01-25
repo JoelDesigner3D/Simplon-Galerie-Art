@@ -50,6 +50,7 @@ MonoBehaviour:
   sprite: {fileID: 6515912729896895304}
   frame: {fileID: 6515912729293146769}
   border: {fileID: 6515912729913424514}
+  light: {fileID: 0}
 --- !u!1 &6515912729293146769
 GameObject:
   m_ObjectHideFlags: 0
@@ -162,7 +163,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6515912729896895303
 Transform:
