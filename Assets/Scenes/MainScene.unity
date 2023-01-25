@@ -5086,6 +5086,24 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 93582442287003306}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1018548472 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 1cc11ffbe578fa547b800e780e45b9c1,
+    type: 3}
+  m_PrefabInstance: {fileID: 1579877719}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1018548476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1018548472}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3c5280d7e409fe4faeac70542c9c34f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &1041612727 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6515912729291719102, guid: 53821b85e865a384088a27957628ef40,
@@ -6508,7 +6526,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 1cc11ffbe578fa547b800e780e45b9c1, type: 3}
       propertyPath: m_Name
-      value: Sphere128
+      value: Earth
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1cc11ffbe578fa547b800e780e45b9c1, type: 3}
       propertyPath: m_RootOrder
