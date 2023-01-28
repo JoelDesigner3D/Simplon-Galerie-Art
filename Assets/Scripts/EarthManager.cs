@@ -8,6 +8,6 @@ public class EarthManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(new Vector3(0f, 0.2f, 0f));
+        transform.Rotate(new Vector3(0f, 0.05f, 0f));
     }
 }

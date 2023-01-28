@@ -12,7 +12,7 @@ Shader "Earth"
 		
 		_CloudAndNightTex("Cloud And Night", 2D) = "black" {}
 
-		//_LightDir("Light Dir", Vector) = (-1,0,0,1)
+		//_LightDir("Light Dir", Vector) = (-1,0,0,1);
 	}
 
 	SubShader 
