@@ -12,6 +12,7 @@ public class LabelDisplaying : MonoBehaviour
 
     private TextMeshProUGUI canvasText;
     public TextMeshProUGUI labelText;
+    private string text = "";
 
 
     void Start()
@@ -35,7 +36,7 @@ public class LabelDisplaying : MonoBehaviour
     {
         Debug.Log("Mouse exit");
         infosCanvas.SetActive(false);
-        canvasText.text = "";
+      //  canvasText.text = "";
     }
 
    
